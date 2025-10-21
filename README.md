@@ -28,14 +28,16 @@ It’s optimized for performance, scalability, and resilience under high load.
 
 ### 2️⃣ Clone & run
 ```bash
-git clone https://github.com/luizhjusto/SantanderHackerNewsApi.git SantanderHackerNewsApi
-cd SantanderHackerNewsApi
+git clone https://github.com/luizhjusto/SantanderHackerNews.git SantanderHackerNews
+cd SantanderHackerNews
 dotnet restore
 dotnet run
+```
 
 ### 3️⃣ API Usage
 ```bash
 GET https://localhost:5001/api/v1/stories?count=10
+```
 
 ✅ Example response
 ```json
@@ -49,6 +51,7 @@ GET https://localhost:5001/api/v1/stories?count=10
     "commentCount": 572
   }
 ]
+```
 
 ### 4️⃣ Swagger UI
 Browse to: https://localhost:5001/swagger
