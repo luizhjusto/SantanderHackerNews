@@ -29,7 +29,7 @@ It’s optimized for performance, scalability, and resilience under high load.
 ### 2️⃣ Clone & run
 ```bash
 git clone https://github.com/luizhjusto/SantanderHackerNews.git SantanderHackerNews
-cd SantanderHackerNews
+cd SantanderHackerNews/SantanderHackerNews.Api
 dotnet restore
 dotnet run
 ```
