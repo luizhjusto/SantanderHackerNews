@@ -54,7 +54,10 @@ GET https://localhost:5001/api/v1/stories?count=10
 ```
 
 ### 4️⃣ Swagger UI
-Browse to: https://localhost:5001/swagger
+Browse to: 
+https://localhost:5001/swagger
+Or
+https://localhost:5001/scalar
 
 ---
 
